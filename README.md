@@ -1,5 +1,6 @@
 Задачей данной курсовой работы являлся анализ csv файлов для расчёта частоты встречаемости транзакций
-![image](https://github.com/user-attachments/assets/8c7ca079-190f-43bc-bd23-e16cac170f10)
+![image](https://github.com/user-attachments/assets/974be123-efe2-4adb-800b-d049677c2284)
+
 
 Загружаемые csv файлы:
 gender_train
